@@ -1,0 +1,618 @@
+{
+    "election_data": {
+      "contests": [
+        {
+          "ballotPlacement": "1",
+          "ballotTitle": "President and Vice President",
+          "candidates": [
+            {
+              "name": "Kamala D. Harris and Tim Walz",
+              "party": "Democratic"
+            },
+            {
+              "name": "Donald J. Trump and J.D. Vance",
+              "party": "Republican"
+            },
+            {
+              "name": "Jill E. Stein and Butch Ware III",
+              "party": "Green"
+            },
+            {
+              "name": "Chase R. Oliver and Mike ter Maat",
+              "party": "Libertarian"
+            },
+            {
+              "name": "Claudia De la Cruz and Karina Garcia",
+              "party": "Independent"
+            },
+            {
+              "name": "Cornel R. West and Melina Abdullah",
+              "party": "Independent"
+            }
+          ],
+          "district": {
+            "name": "United States Of America",
+            "scope": "statewide"
+          },
+          "finance_info": [],
+          "numberElected": "1",
+          "numberVotingFor": "1",
+          "office": "President and Vice President",
+          "sources": [
+            {
+              "name": "Voting Information Project",
+              "official": true
+            }
+          ],
+          "type": "General"
+        },
+        {
+          "ballotPlacement": "2",
+          "ballotTitle": "Member, United States Senate",
+          "candidates": [
+            {
+              "name": "Timothy M. Kaine",
+              "party": "Democratic"
+            },
+            {
+              "name": "Hung Cao",
+              "party": "Republican"
+            }
+          ],
+          "district": {
+            "name": "United States Of America",
+            "scope": "statewide"
+          },
+          "finance_info": [
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 277.73,
+              "donor_name": "PRESIDENTIAL BANK"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "WISE, LARRY"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 4.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 4.0,
+              "donor_name": "WILLIAMS, BETTY"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 8.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 8.0,
+              "donor_name": "WILLIAMS, BETTY"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 100.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 100.0,
+              "donor_name": "WATTS, MARY"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 500.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 500.0,
+              "donor_name": "WARD, CHARLES"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "WALKER, MEGHAN"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 30.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 30.0,
+              "donor_name": "VIGO, JUDITH"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 50.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 50.0,
+              "donor_name": "VIGO, JUDITH"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 50.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 50.0,
+              "donor_name": "VIGO, JUDITH"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 277.73,
+              "donor_name": "PRESIDENTIAL BANK"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "WISE, LARRY"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 4.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 4.0,
+              "donor_name": "WILLIAMS, BETTY"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 8.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 8.0,
+              "donor_name": "WILLIAMS, BETTY"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 100.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 100.0,
+              "donor_name": "WATTS, MARY"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 500.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 500.0,
+              "donor_name": "WARD, CHARLES"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "WALKER, MEGHAN"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 30.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 30.0,
+              "donor_name": "VIGO, JUDITH"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 50.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 50.0,
+              "donor_name": "VIGO, JUDITH"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 50.0,
+              "donor_name": "WINRED"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 50.0,
+              "donor_name": "VIGO, JUDITH"
+            },
+            {
+              "candidate_name": "Hung Cao",
+              "committee_name": "HUNG CAO FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "WINRED"
+            }
+          ],
+          "numberElected": "1",
+          "numberVotingFor": "1",
+          "office": "Member, United States Senate",
+          "sources": [
+            {
+              "name": "Voting Information Project",
+              "official": true
+            }
+          ],
+          "type": "General"
+        },
+        {
+          "ballotPlacement": "3",
+          "ballotTitle": "Member, House of Representatives (10th District)",
+          "candidates": [
+            {
+              "name": "Suhas Subramanyam",
+              "party": "Democratic"
+            },
+            {
+              "name": "Mike W. Clancy",
+              "party": "Republican"
+            }
+          ],
+          "district": {
+            "name": "10",
+            "scope": "congressional"
+          },
+          "finance_info": [
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 2500.0,
+              "donor_name": "JOINT ACTION COMMITTEE FOR POLITICAL AFFAIRS"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 1700.0,
+              "donor_name": "ACTBLUE"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 1000.0,
+              "donor_name": "AMERICAN INNOVATION PAC - AMIPAC"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 3300.0,
+              "donor_name": "ACTBLUE"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 1000.0,
+              "donor_name": "COMMITTEE FOR A DEMOCRATIC FUTURE"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 1000.0,
+              "donor_name": "SPIKE PAC"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 750.0,
+              "donor_name": "ACTBLUE"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 750.0,
+              "donor_name": "CHAMBERS, ERNEST"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 50.0,
+              "donor_name": "ACTBLUE"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 50.0,
+              "donor_name": "CRANSTON, JAN"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 100.0,
+              "donor_name": "ACTBLUE"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 100.0,
+              "donor_name": "MARTIN, EILEEN"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 750.0,
+              "donor_name": "ACTBLUE"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 750.0,
+              "donor_name": "DEPASQUALE, THOMAS"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 250.0,
+              "donor_name": "ACTBLUE"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 3300.0,
+              "donor_name": "ACTBLUE"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 3300.0,
+              "donor_name": "FELTEN, LAURA"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 25.0,
+              "donor_name": "ACTBLUE"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 3300.0,
+              "donor_name": "PLAUT, RAYMOND"
+            },
+            {
+              "candidate_name": "Suhas Subramanyam",
+              "committee_name": "SUHAS FOR VIRGINIA",
+              "donation_amount": 3300.0,
+              "donor_name": "ACTBLUE"
+            }
+          ],
+          "level": [
+            "country"
+          ],
+          "numberElected": "1",
+          "numberVotingFor": "1",
+          "office": "Member, House of Representatives (10th District)",
+          "sources": [
+            {
+              "name": "Voting Information Project",
+              "official": true
+            }
+          ],
+          "type": "General"
+        },
+        {
+          "ballotPlacement": "14",
+          "ballotTitle": "Mayor (Manassas City)",
+          "candidates": [
+            {
+              "name": "E. Michelle Davis-Younger"
+            },
+            {
+              "name": "Xiao-Yin \"Tang\" Byrom"
+            }
+          ],
+          "district": {
+            "name": "MANASSAS CITY",
+            "scope": "citywide"
+          },
+          "finance_info": [],
+          "numberElected": "1",
+          "numberVotingFor": "1",
+          "office": "Mayor (Manassas City)",
+          "sources": [
+            {
+              "name": "Voting Information Project",
+              "official": true
+            }
+          ],
+          "type": "General"
+        },
+        {
+          "ballotPlacement": "18",
+          "ballotTitle": "Member City Council  (Manassas City)",
+          "candidates": [
+            {
+              "name": "Ashley R. Hutson"
+            },
+            {
+              "name": "Tom C. Osina"
+            },
+            {
+              "name": "Mark D. Wolfe"
+            },
+            {
+              "name": "Lynn Forkell Greene"
+            },
+            {
+              "name": "Stephen D. Kent"
+            },
+            {
+              "name": "Robyn R. Williams"
+            }
+          ],
+          "district": {
+            "name": "MANASSAS CITY",
+            "scope": "citywide"
+          },
+          "finance_info": [],
+          "numberElected": "3",
+          "numberVotingFor": "3",
+          "office": "Member City Council  (Manassas City)",
+          "sources": [
+            {
+              "name": "Voting Information Project",
+              "official": true
+            }
+          ],
+          "type": "General"
+        },
+        {
+          "ballotPlacement": "20",
+          "ballotTitle": "Member School Board (Manassas City)",
+          "candidates": [
+            {
+              "name": "Suzanne Seaberg"
+            },
+            {
+              "name": "Christina S. Brooks"
+            },
+            {
+              "name": "Diana Ivette Brown"
+            },
+            {
+              "name": "Zella M. Jones"
+            },
+            {
+              "name": "Maidy M. Whitesell"
+            },
+            {
+              "name": "Javanese M. Hailey"
+            },
+            {
+              "name": "Dayna-Marie Miles"
+            },
+            {
+              "name": "A. R. \"Allie\" Forkell"
+            }
+          ],
+          "district": {
+            "name": "MANASSAS CITY",
+            "scope": "citywide"
+          },
+          "finance_info": [],
+          "numberElected": "4",
+          "numberVotingFor": "4",
+          "office": "Member School Board (Manassas City)",
+          "sources": [
+            {
+              "name": "Voting Information Project",
+              "official": true
+            }
+          ],
+          "type": "General"
+        },
+        {
+          "ballotPlacement": "27",
+          "ballotTitle": "Proposed Constitutional Amendment",
+          "district": {
+            "name": "Virginia",
+            "scope": "statewide"
+          },
+          "finance_info": [],
+          "referendumBallotResponses": [
+            "Yes",
+            "No"
+          ],
+          "referendumText": "Should the Constitution of Virginia be amended so that the tax exemption that is currently available to the surviving spouses of soldiers killed in action is also available to the surviving spouses of soldiers who died in the line of duty?",
+          "referendumTitle": "Proposed Constitutional Amendment",
+          "sources": [
+            {
+              "name": "Voting Information Project",
+              "official": true
+            }
+          ],
+          "type": "ballot-measure"
+        }
+      ],
+      "election": {
+        "electionDay": "2024-11-05",
+        "id": "9000",
+        "name": "US 2024 General Election",
+        "ocdDivisionId": "ocd-division/country:us"
+      },
+      "polling_location": null
+    },
+    "state_competitiveness": {
+      "status": "Tossup",
+      "value": -3
+    }
+  }
